@@ -1,0 +1,8 @@
+# AutoBackup Vault configuration
+# Edit SOURCE_DIR and BACKUP_DIR to paths on your machine
+
+SOURCE_DIR="$HOME/Documents"                # folder to back up
+BACKUP_DIR="$HOME/Desktop/auto-backup-vault/Backups"   # where backups are stored
+BACKUP_INTERVAL="24h"                       # informational only for now
+# LOG_FILE can be set in script, but we note it here
+LOG_FILE="$HOME/Desktop/auto-backup-vault/logs/backup.log"
