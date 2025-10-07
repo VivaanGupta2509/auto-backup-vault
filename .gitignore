@@ -1,0 +1,5 @@
+# ignore logs and local backups
+logs/
+Backups/
+*.local
+
