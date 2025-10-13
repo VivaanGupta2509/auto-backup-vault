@@ -9,3 +9,4 @@ Auto Backup Vault is a simple script-based tool to automatically back up importa
    ```bash
    chmod +x scripts/backup.sh
 
+Nandini - Updated README and added documentation
