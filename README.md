@@ -55,7 +55,8 @@ This project was developed as part of our Open Source Technology (OST) course, w
 
 ```bash
 git clone https://github.com/VivaanGupta2509/auto-backup-vault.git
-cd auto-backup-vault
+cd auto-backup-vault```
+
 ## Applications
 
 Auto Backup Vault can be used in a variety of real-world scenarios:
