@@ -1,5 +1,43 @@
 # AutoBackup Vault
 
+AutoBackup Vault is a Bash-based utility that automatically backs up important directories, maintains a timestamped history, and allows easy restoration of previous backups.
+
+---
+
+## Project Overview
+
+AutoBackup Vault is designed to:
+
+- Safely back up user-specified directories.
+- Keep organized timestamped backup folders.
+- Maintain a log of backup operations.
+- Allow restoring previous backups easily.
+- Run fully on macOS/Linux using Bash.
+
+This project was developed as part of our Open Source Technology (OST) course, with contributions from all team members.
+
+---
+
+## Team Members
+
+| Name            | Role                                      |
+|-----------------|-------------------------------------------|
+| Sharvari Murade  | Project setup, backup & restore scripts  |
+| Nandini Bansal   | Documentation, README updates            |
+| Mohit Rawat      | Initial script skeleton, configuration    |
+| Vivaan Gupta     | Repository setup, branch management       |
+
+---
+
+## Quick Start
+
+### 1. Clone the repository
+
+```bash
+git clone git@github.com:VivaanGupta2509/auto-backup-vault.git
+cd auto-backup-vault
+# AutoBackup Vault
+
 **AutoBackup Vault** is a Bash-based backup tool that automatically backs up your important directories to a specified location with timestamped folders. It also allows restoring backups easily, and keeps logs of all backup activities.
 
 ---
