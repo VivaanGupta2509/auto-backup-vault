@@ -52,11 +52,13 @@ This project was developed as part of our Open Source Technology (OST) course, w
 ## Installation & Setup
 
 1. **Clone the repository**:
-
-```bash
+bash
 git clone https://github.com/VivaanGupta2509/auto-backup-vault.git
 cd auto-backup-vault
-## 🔭 Applications
+
+
+---
+## Applications
 
 Auto Backup Vault can be used in a variety of real-world scenarios:
 
@@ -66,7 +68,6 @@ Auto Backup Vault can be used in a variety of real-world scenarios:
 - **Pre-deployment snapshots** — capture server configs and app data prior to major updates.  
 - **Ad hoc data salvage** — create quick archives of specified folders before dangerous operations.
 
----
 
 ## 🚀 Future scope & improvements
 
